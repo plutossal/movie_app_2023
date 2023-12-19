@@ -1,3 +1,3 @@
 # Movie App 2023
 
-React JS Fundamentals Course (2023 Update!)1
+React JS Fundamentals Course (2023 Update!)
